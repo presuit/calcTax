@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/calctax/static/css/main.be719dab.chunk.css",
-    "main.js": "/calctax/static/js/main.171307e3.chunk.js",
-    "main.js.map": "/calctax/static/js/main.171307e3.chunk.js.map",
+    "main.css": "/calctax/static/css/main.63e0dadc.chunk.css",
+    "main.js": "/calctax/static/js/main.760c8544.chunk.js",
+    "main.js.map": "/calctax/static/js/main.760c8544.chunk.js.map",
     "runtime-main.js": "/calctax/static/js/runtime-main.59f102ad.js",
     "runtime-main.js.map": "/calctax/static/js/runtime-main.59f102ad.js.map",
     "static/js/2.d50dcf2f.chunk.js": "/calctax/static/js/2.d50dcf2f.chunk.js",
     "static/js/2.d50dcf2f.chunk.js.map": "/calctax/static/js/2.d50dcf2f.chunk.js.map",
     "index.html": "/calctax/index.html",
-    "precache-manifest.29a434f25acabc16049e315742cb599d.js": "/calctax/precache-manifest.29a434f25acabc16049e315742cb599d.js",
+    "precache-manifest.d1834294b23d3b512844436ac4e743ae.js": "/calctax/precache-manifest.d1834294b23d3b512844436ac4e743ae.js",
     "service-worker.js": "/calctax/service-worker.js",
-    "static/css/main.be719dab.chunk.css.map": "/calctax/static/css/main.be719dab.chunk.css.map",
+    "static/css/main.63e0dadc.chunk.css.map": "/calctax/static/css/main.63e0dadc.chunk.css.map",
     "static/js/2.d50dcf2f.chunk.js.LICENSE.txt": "/calctax/static/js/2.d50dcf2f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.59f102ad.js",
     "static/js/2.d50dcf2f.chunk.js",
-    "static/css/main.be719dab.chunk.css",
-    "static/js/main.171307e3.chunk.js"
+    "static/css/main.63e0dadc.chunk.css",
+    "static/js/main.760c8544.chunk.js"
   ]
 }

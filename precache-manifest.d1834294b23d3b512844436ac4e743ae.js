@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4cab8c7b73ce275d6b1ee079986c5b39",
+    "revision": "13ad602c4ecfc66437ccce4c9d9a81c9",
     "url": "/calctax/index.html"
   },
   {
-    "revision": "3a261b0dec80eb7f164e",
-    "url": "/calctax/static/css/main.be719dab.chunk.css"
+    "revision": "86d5fe4d2557bd1236f3",
+    "url": "/calctax/static/css/main.63e0dadc.chunk.css"
   },
   {
     "revision": "ee68f5b70a60df013466",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/calctax/static/js/2.d50dcf2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3a261b0dec80eb7f164e",
-    "url": "/calctax/static/js/main.171307e3.chunk.js"
+    "revision": "86d5fe4d2557bd1236f3",
+    "url": "/calctax/static/js/main.760c8544.chunk.js"
   },
   {
     "revision": "712a8c27a124e0457cdb",
